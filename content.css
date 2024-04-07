@@ -1,0 +1,12 @@
+/* Styles specific to content pages */
+
+.container {
+    max-width: 800px; /* Adjust as needed */
+}
+
+.main-content img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Additional styles for specific content elements can be added here */
